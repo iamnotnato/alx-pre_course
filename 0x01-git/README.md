@@ -9,4 +9,5 @@
 
 <h4>Directories:</h4>
 
-* [0x01-git - Git](./0x01-git)
+* [bash - Bash](./bash)
+* [c - C](./c)
