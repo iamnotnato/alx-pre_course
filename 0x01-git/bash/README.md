@@ -11,5 +11,6 @@ This is a project about understanding the fundamentals of git.
 
 <h4>Files:</h4>
 
-* [bash - Bash](./bash)
-* [c - C](./c)
+* [98](98)
+* [alx](alx)
+* [school](school)
