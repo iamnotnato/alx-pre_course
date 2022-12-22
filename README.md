@@ -1,4 +1,5 @@
-#This is a project about understanding the fundamentals of git.
+<h4>Summary: </h4>
+This is a project about understanding the fundamentals of git.
 
 <h4>Languages Used</h4>
 <table>
