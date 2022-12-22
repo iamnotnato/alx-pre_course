@@ -12,5 +12,5 @@ This is a project about understanding the fundamentals of git.
 
 <h4>Directories:</h4>
 
-* [bash - Bash](./bash)
-* [c - C](./c)
+* [bash/ - Bash](./bash)
+* [c/ - C](./c)
